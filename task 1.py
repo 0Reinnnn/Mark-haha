@@ -7,5 +7,5 @@ for i in range(user):
     storage_number.append(number)
 
 for get_number in storage_number:
-    print(get_number , end " ")
+    print(get_number , end= " ")
 
